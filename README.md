@@ -4,7 +4,7 @@ VsCode CatBox themes
 
 ## Install
 
-Copy the JSON for your theme into `settings.json`, and select the Catppuccin Latte Theme from the official theme <https://github.com/catppuccin/vscode> (Extension id `Catppuccin.catppuccin-vsc`)
+Copy the JSON for your theme into `settings.json`, and select the Catppuccin Latte Theme from the [official theme](https://github.com/catppuccin/vscode) (Extension id `Catppuccin.catppuccin-vsc`)
 
 <details>
   <summary>CatBox Masala Chai</summary>
